@@ -41,8 +41,9 @@ To run this project locally, follow these steps:
 Clone the repository:
 
 
-```git clone https://github.com/your-username/portfolio.git```
-cd portfolio
+```https://github.com/PalakDahare/PortfolioPD.git
+cd PortfolioPD```
+
 Install dependencies:
 
 sh
