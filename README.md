@@ -41,18 +41,29 @@ To run this project locally, follow these steps:
 Clone the repository:
 
 
-```https://github.com/PalakDahare/PortfolioPD.git```
-```cd PortfolioPD```
+```
+https://github.com/PalakDahare/PortfolioPD.git
+cd PortfolioPD
+
+```
 
 Install dependencies:
 
 
-```npm install```
+```
+npm install
+
+```
 
 Start the development server:
 
 
-```npm run dev```
+```
+npm run dev
+
+```
+
+
 The application will be available at http://localhost:5173.
 
 # React + Vite
