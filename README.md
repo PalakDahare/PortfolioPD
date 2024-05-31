@@ -35,6 +35,27 @@ This is a personal portfolio website built using React. It showcases my projects
 
 5.GitHub Pages/Vercel/Netlify: Options for deploying the portfolio.
 
+# Installation
+To run this project locally, follow these steps:
+
+Clone the repository:
+
+sh
+Copy code
+git clone https://github.com/your-username/portfolio.git
+cd portfolio
+Install dependencies:
+
+sh
+Copy code
+npm install
+Start the development server:
+
+sh
+Copy code
+npm start
+The application will be available at http://localhost:3000.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
