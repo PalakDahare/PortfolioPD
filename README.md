@@ -1,4 +1,4 @@
-![Capture](https://github.com/PalakDahare/PortfolioPD/assets/117660359/00d60c3a-675c-4240-8674-d9548d46f3b3)# PorfolioPD
+# PorfolioPD
 # Table of Contents
 1.Project Overview
 
@@ -82,7 +82,7 @@ Contact: Form to send you messages directly.
 
 # Output Screenshots
 
-![Uploading Capture.PNG…]()
+![Capture](https://github.com/PalakDahare/PortfolioPD/assets/117660359/00d60c3a-675c-4240-8674-d9548d46f3b3)
 
 
 
