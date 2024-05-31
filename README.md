@@ -1,9 +1,13 @@
 # PorfolioPD
 # Table of Contents
 1.Project Overview
+
 2.Features
+
 3.Technologies Used
+
 4.Installation
+
 5.Usage
 
 # Project Overview
@@ -22,9 +26,13 @@ This is a personal portfolio website built using React. It showcases my projects
 
 # Technologies Used
 1.React: JavaScript library for building user interfaces.
+
 2.React Router: Library for routing in React applications.
+
 3.CSS Modules: Styling solution for scoped and maintainable CSS.
+
 4.EmailJS: Service for sending emails directly from the contact form.
+
 5.GitHub Pages/Vercel/Netlify: Options for deploying the portfolio.
 
 # React + Vite
