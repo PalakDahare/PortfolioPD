@@ -85,8 +85,9 @@ Once the development server is running, you can explore the different sections o
 ![Capture](https://github.com/PalakDahare/PortfolioPD/assets/117660359/00d60c3a-675c-4240-8674-d9548d46f3b3)
 
 
-
 ![Capture2](https://github.com/PalakDahare/PortfolioPD/assets/117660359/d41baf34-54af-4caa-b0e6-1389e13606e7)
+![Capture3](https://github.com/PalakDahare/PortfolioPD/assets/117660359/23dd126a-8491-463e-859f-b95e8a8a451d)
+![Capture4](https://github.com/PalakDahare/PortfolioPD/assets/117660359/d58dbab0-bce9-459c-8dab-a44ef1076182)
 
 # React + Vite
 
