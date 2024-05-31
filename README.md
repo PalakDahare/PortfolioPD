@@ -1,4 +1,4 @@
-# PorfolioPD
+![Capture](https://github.com/PalakDahare/PortfolioPD/assets/117660359/00d60c3a-675c-4240-8674-d9548d46f3b3)# PorfolioPD
 # Table of Contents
 1.Project Overview
 
@@ -71,10 +71,22 @@ The application will be available at http://localhost:5173.
 Once the development server is running, you can explore the different sections of the portfolio:
 
 Home: Welcome message and navigation.
+
 About: Information about your background and experience.
+
 Projects: Showcase of your work with links to live demos and source code.
+
 Skills: List of your technical skills.
+
 Contact: Form to send you messages directly.
+
+# Output Screenshots
+
+![Uploading Capture.PNG…]()
+
+
+
+![Capture2](https://github.com/PalakDahare/PortfolioPD/assets/117660359/d41baf34-54af-4caa-b0e6-1389e13606e7)
 
 # React + Vite
 
