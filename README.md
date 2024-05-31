@@ -11,10 +11,15 @@ This is a personal portfolio website built using React. It showcases my projects
 
 # Features
 1.Home Page: Brief introduction and welcome message.
+
 2.About Me: Detailed information about my background, education, and experience.
+
 3.Projects: Gallery of my projects with descriptions, technologies used, and links to live demos and source code.
+
 4.Skills: List of my technical skills with proficiency levels.
+
 5.Contact: Contact form for visitors to get in touch with me.
+
 # Technologies Used
 1.React: JavaScript library for building user interfaces.
 2.React Router: Library for routing in React applications.
