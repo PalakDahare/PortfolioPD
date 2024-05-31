@@ -66,6 +66,16 @@ npm run dev
 
 The application will be available at http://localhost:5173.
 
+
+# Usage
+Once the development server is running, you can explore the different sections of the portfolio:
+
+Home: Welcome message and navigation.
+About: Information about your background and experience.
+Projects: Showcase of your work with links to live demos and source code.
+Skills: List of your technical skills.
+Contact: Form to send you messages directly.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
